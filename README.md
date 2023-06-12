@@ -9,8 +9,8 @@
  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeoly&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyeol)](https://solved.ac/jungyeol/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jungyeol)](https://solved.ac/jungyeol)
 
 
 <br>
